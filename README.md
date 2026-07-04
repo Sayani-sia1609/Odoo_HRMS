@@ -175,8 +175,8 @@ DATABASE_URL=postgresql://postgres:password@localhost:5432/hrms_db
 | Member | Role |
 |---------|------|
 | **Sayani Das** | Authentication and Database |
-| **Rohit XED** | Frontend Development |
-| **Srinik G-bit** | Backend Services|
+| **Rohit_xcd** | Frontend Development |
+| **SrinikG-bit** | Backend Services|
 | **D-Luvgood** | API,Readme|
 
 ---
