@@ -55,7 +55,7 @@ Odoo_HRMS/
 │   ├── main.py
 │   └── requirements.txt
 │
-├── files/                    # Uploaded files (if any)
+├── files/                    # Authentication and Database
 │
 ├── .gitignore
 └── README.md
